@@ -1,4 +1,4 @@
-module github.com/adibaulia/xk6-pubsub
+module github.com/olvod/xk6-pubsub
 
 go 1.15
 
