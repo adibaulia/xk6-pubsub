@@ -1,4 +1,4 @@
-import {check} from 'k6';
+import { check } from 'k6';
 import pubsub from 'k6/x/pubsub';
 
 export default function () {
